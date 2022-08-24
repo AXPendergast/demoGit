@@ -1,5 +1,9 @@
 Primera prueba con git
 Modificación en el fichero
+<<<<<<< HEAD
 Modificacion para probar desde VSC
 Vamos a hacer una segunda modificación
 Ultimo intento
+=======
+Modificacion para probar desde VSC
+>>>>>>> parent of 8afa491 (Modificación realizada desde VSC)
